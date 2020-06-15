@@ -24,7 +24,7 @@
 本库下项目使用 [python3.8中的IDLE](https://www.python.org/downloads/)请确保你本地安装了它们。
 
 ## 使用说明
-
+    别看了别看了再搭了
 1. 点击左上角File
     ![Alt text](https://github.com/Daming-Cc/unknown_study_java/blob/master/images/File.png)
 2. 选择Import选项
